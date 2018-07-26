@@ -1,0 +1,26 @@
+<annotation>
+	<folder>sliced</folder>
+	<filename>201705_Tailings_0206_01_01.jpeg</filename>
+	<path>/Users/harshbandhey/flytbase/sliced/201705_Tailings_0206_01_01.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1728</width>
+		<height>1152</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>burrow</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>168</xmin>
+			<ymin>438</ymin>
+			<xmax>240</xmax>
+			<ymax>511</ymax>
+		</bndbox>
+	</object>
+</annotation>

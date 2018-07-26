@@ -1,0 +1,26 @@
+<annotation>
+	<folder>data2</folder>
+	<filename>image34_rh.jpg</filename>
+	<path>/Users/harshbandhey/flytbase/data2/image34_rh.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<height>2592</height>
+		<width>1728</width>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>burrow</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<ymin>383</ymin>
+			<xmin>470</xmin>
+			<ymax>546</ymax>
+			<xmax>610</xmax>
+		</bndbox>
+	</object>
+</annotation>
